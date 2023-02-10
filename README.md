@@ -1,4 +1,4 @@
-# A template to get you started with Cairo 1
+# Commercium Dex Aggregator
 
 Create a repository from this template, clone it locally and run `make install`. Voilà!
 
